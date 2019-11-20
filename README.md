@@ -17,6 +17,12 @@ To install the latest version of Syncano REPL run this command:
 npm i -g syncano-repl
 ```
 
+Or you can quickly use it with:
+
+```sh
+npx syncano-repl
+```
+
 To start Syncano REPL, go to your project root directory and run:
 
 ```sh
