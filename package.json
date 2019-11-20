@@ -1,0 +1,35 @@
+{
+  "name": "syncano-repl",
+  "version": "0.1.0",
+  "author": "Kasper Mikiewicz",
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "bin": {
+    "syncano-repl": "./index.js",
+    "sr": "./index.js"
+  },
+  "files": [
+    "helpers.js",
+    "index.js"
+  ],
+  "prettier": {
+    "bracketSpacing": false,
+    "semi": false,
+    "trailingComma": "es5",
+    "singleQuote": true
+  },
+  "dependencies": {
+    "@syncano/core": "^0.15.1-alpha.32",
+    "boxen": "^4.1.0",
+    "colorette": "^1.1.0",
+    "cross-spawn": "^7.0.1",
+    "file-system-cache": "^1.0.5",
+    "find-cache-dir": "^3.1.0",
+    "fx": "^14.1.0",
+    "js-yaml": "^3.13.1",
+    "node-fetch": "^2.6.0",
+    "semver": "^6.3.0"
+  }
+}

@@ -1,0 +1,4 @@
+node_modules
+.syncano-repl-history
+.syncano-repl-response.json
+.envrc
