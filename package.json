@@ -28,7 +28,7 @@
     "find-cache-dir": "^3.1.0",
     "fx": "^14.1.0",
     "js-yaml": "^3.13.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "semver": "^6.3.0"
   }
 }
